@@ -6,6 +6,6 @@ Take on one of the greatest challenges in osrs by obtaining all 10 Champion scro
 
 The challenges work slightly different in the bot as you only need to collect all 10, rather than kill all 10 champions separately. Once you have all 10 scrolls, simply run the following command to receive the cape:
 
-`/activities champions_challenge`
+`/activities other activity:Champions Challenge`
 
 You cannot fail the challenge.
